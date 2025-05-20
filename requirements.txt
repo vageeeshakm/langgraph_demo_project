@@ -1,0 +1,13 @@
+ipython
+psycopg2-binary
+langchain
+langchain_community
+openai
+
+langgraph==0.4.1
+redis==6.1.0
+langchain-community==0.3.5
+openai==1.56.2
+langchain-openai==0.2.11
+langgraph-cli
+langgraph-cli[inmem]
